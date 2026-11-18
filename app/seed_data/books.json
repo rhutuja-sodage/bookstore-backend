@@ -1,0 +1,871 @@
+[
+  {
+    "id": "joy-of-minimalism",
+    "title": "The Joy of Minimalism",
+    "author": "Daniel Reed",
+    "publisher": "ABC Publishers",
+    "description": "Declutter your life to uncover peace, clarity, and joy. A practical guide to mastering what matters and letting go of the rest.",
+    "category": "Self-help",
+    "genres": [
+      "Non-fiction",
+      "Self Help"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 149,
+    "discountPercent": 10,
+    "taxPercent": 5,
+    "deliveryDays": 4,
+    "rating": 4.8,
+    "ratingCount": 312,
+    "sold": 145,
+    "published": "2026-06-20",
+    "cover": {
+      "bg": "#fdd10b",
+      "fg": "#1a1a1a",
+      "accent": "#1a1a1a",
+      "motif": "sun"
+    }
+  },
+  {
+    "id": "art-of-focus",
+    "title": "The Art of Focus",
+    "author": "Arjun Patel",
+    "publisher": "Lotus House",
+    "description": "Practical guide to mastering focus and boosting productivity every day, with simple routines you can start today.",
+    "category": "Self-help",
+    "genres": [
+      "Non-fiction",
+      "Self Help"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 399,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 4,
+    "rating": 4.6,
+    "ratingCount": 540,
+    "sold": 920,
+    "published": "2025-11-02",
+    "cover": {
+      "bg": "#f4f0e8",
+      "fg": "#1a1a1a",
+      "accent": "#d9392b",
+      "motif": "target"
+    }
+  },
+  {
+    "id": "art-of-learning",
+    "title": "The Art of Learning",
+    "author": "Raj Patel",
+    "publisher": "Lotus House",
+    "description": "Master the mindset and methods for effective lifelong learning, from memory techniques to deliberate practice.",
+    "category": "Self-help",
+    "genres": [
+      "Non-fiction",
+      "Self Help"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 259,
+    "discountPercent": 5,
+    "taxPercent": 12,
+    "deliveryDays": 4,
+    "rating": 4.4,
+    "ratingCount": 410,
+    "sold": 780,
+    "published": "2025-09-14",
+    "cover": {
+      "bg": "#d93a22",
+      "fg": "#ffffff",
+      "accent": "#f9c74f",
+      "motif": "bulb"
+    }
+  },
+  {
+    "id": "path-to-success",
+    "title": "The Path to Success",
+    "author": "James Wright",
+    "publisher": "ABC Publishers",
+    "description": "A practical guide to achieving goals with clarity and confidence, one deliberate step at a time.",
+    "category": "Self-help",
+    "genres": [
+      "Non-fiction",
+      "Self Help"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 359,
+    "discountPercent": 15,
+    "taxPercent": 12,
+    "deliveryDays": 4,
+    "rating": 4.7,
+    "ratingCount": 633,
+    "sold": 1210,
+    "published": "2026-02-11",
+    "cover": {
+      "bg": "#0e7490",
+      "fg": "#fde047",
+      "accent": "#fde047",
+      "motif": "arrow"
+    }
+  },
+  {
+    "id": "midnight-hour",
+    "title": "The Midnight Hour",
+    "author": "James Adams",
+    "publisher": "Nightfall Press",
+    "description": "Haunting tale of a man’s journey and the shadows of a forgotten past that refuse to stay buried.",
+    "category": "Mystery",
+    "genres": [
+      "Fiction",
+      "Thriller",
+      "Horror"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 299,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.3,
+    "ratingCount": 288,
+    "sold": 1540,
+    "published": "2026-03-03",
+    "cover": {
+      "bg": "#14213d",
+      "fg": "#e5e5e5",
+      "accent": "#fca311",
+      "motif": "moon"
+    }
+  },
+  {
+    "id": "beneath-the-stars",
+    "title": "Beneath the Stars",
+    "author": "Jessica Martin",
+    "publisher": "Heartline Books",
+    "description": "A heartwarming tale where two souls discover who they really are under one endless sky.",
+    "category": "Romance",
+    "genres": [
+      "Fiction",
+      "Love",
+      "Drama"
+    ],
+    "language": "English",
+    "format": "Hardcover",
+    "price": 499,
+    "discountPercent": 12,
+    "taxPercent": 12,
+    "deliveryDays": 6,
+    "rating": 4.5,
+    "ratingCount": 702,
+    "sold": 1380,
+    "published": "2026-01-19",
+    "cover": {
+      "bg": "#7b2d4f",
+      "fg": "#ffe8d6",
+      "accent": "#ffb4a2",
+      "motif": "stars"
+    }
+  },
+  {
+    "id": "final-frontier",
+    "title": "The Final Frontier",
+    "author": "Laura Mitchell",
+    "publisher": "Orbit Lane",
+    "description": "A mission to space secrets to change humanity forever, and the crew who must choose what to reveal.",
+    "category": "Science Fiction",
+    "genres": [
+      "Fiction",
+      "Sci-fi"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 359,
+    "discountPercent": 8,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.4,
+    "ratingCount": 351,
+    "sold": 1105,
+    "published": "2026-04-27",
+    "cover": {
+      "bg": "#0b3d6b",
+      "fg": "#ffffff",
+      "accent": "#ff7b54",
+      "motif": "rocket"
+    }
+  },
+  {
+    "id": "vanishing-house",
+    "title": "The Vanishing House",
+    "author": "Clara Nelson",
+    "publisher": "Nightfall Press",
+    "description": "A chilling mystery unfolds within a house that disappears, and the family who swears it never existed.",
+    "category": "Mystery",
+    "genres": [
+      "Fiction",
+      "Horror"
+    ],
+    "language": "English",
+    "format": "E-book",
+    "price": 99,
+    "discountPercent": 0,
+    "taxPercent": 5,
+    "deliveryDays": 1,
+    "rating": 4.1,
+    "ratingCount": 190,
+    "sold": 640,
+    "published": "2026-07-01",
+    "cover": {
+      "bg": "#10302b",
+      "fg": "#cfe8dc",
+      "accent": "#7fb99f",
+      "motif": "house"
+    }
+  },
+  {
+    "id": "lost-kitten",
+    "title": "The Lost Kitten",
+    "author": "Emily Parker",
+    "publisher": "Little Sprout",
+    "description": "A heartwarming tale of courage, friendship and finding a way home, for readers aged 4 to 8.",
+    "category": "Children's",
+    "genres": [
+      "Fiction",
+      "Children"
+    ],
+    "language": "English",
+    "format": "Hardcover",
+    "price": 339,
+    "discountPercent": 10,
+    "taxPercent": 5,
+    "deliveryDays": 5,
+    "rating": 4.9,
+    "ratingCount": 450,
+    "sold": 860,
+    "published": "2026-05-30",
+    "cover": {
+      "bg": "#f97316",
+      "fg": "#fff7ed",
+      "accent": "#fff7ed",
+      "motif": "cat"
+    }
+  },
+  {
+    "id": "dragon-crown",
+    "title": "The Dragon’s Crown",
+    "author": "Aria Stone",
+    "publisher": "Orbit Lane",
+    "description": "An exiled princess must unite three warring clans to reclaim a crown guarded by the last dragon.",
+    "category": "Fantasy",
+    "genres": [
+      "Fiction",
+      "Fantasy"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 449,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.7,
+    "ratingCount": 820,
+    "sold": 2100,
+    "published": "2025-12-12",
+    "cover": {
+      "bg": "#3b0764",
+      "fg": "#fde68a",
+      "accent": "#fbbf24",
+      "motif": "crown"
+    }
+  },
+  {
+    "id": "realm-of-embers",
+    "title": "Realm of Embers",
+    "author": "Aria Stone",
+    "publisher": "Orbit Lane",
+    "description": "The sequel to The Dragon’s Crown: a kingdom burns, and only a forgotten spell can quench it.",
+    "category": "Fantasy",
+    "genres": [
+      "Fiction",
+      "Fantasy"
+    ],
+    "language": "English",
+    "format": "Audiobook",
+    "price": 299,
+    "discountPercent": 5,
+    "taxPercent": 18,
+    "deliveryDays": 1,
+    "rating": 4.5,
+    "ratingCount": 312,
+    "sold": 990,
+    "published": "2026-06-02",
+    "cover": {
+      "bg": "#7c2d12",
+      "fg": "#ffedd5",
+      "accent": "#fb923c",
+      "motif": "crown"
+    }
+  },
+  {
+    "id": "echoes-of-empire",
+    "title": "Echoes of Empire",
+    "author": "Henry Collins",
+    "publisher": "Chronicle House",
+    "description": "A sweeping account of the rise and fall of a great empire, told through the people who lived it.",
+    "category": "Historical",
+    "genres": [
+      "Non-fiction",
+      "History"
+    ],
+    "language": "English",
+    "format": "Hardcover",
+    "price": 799,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 7,
+    "rating": 4.6,
+    "ratingCount": 260,
+    "sold": 430,
+    "published": "2025-08-21",
+    "cover": {
+      "bg": "#4a3728",
+      "fg": "#f5e6c8",
+      "accent": "#c9a227",
+      "motif": "globe"
+    }
+  },
+  {
+    "id": "letters-from-lahore",
+    "title": "Letters from Lahore",
+    "author": "Meera Kapoor",
+    "publisher": "Chronicle House",
+    "description": "A family saga woven through letters exchanged across a divided border over four decades.",
+    "category": "Historical",
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 429,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.5,
+    "ratingCount": 377,
+    "sold": 510,
+    "published": "2026-02-28",
+    "cover": {
+      "bg": "#52796f",
+      "fg": "#f1faee",
+      "accent": "#e9c46a",
+      "motif": "book"
+    }
+  },
+  {
+    "id": "steve-unscripted",
+    "title": "Unscripted: The Life of a Maker",
+    "author": "Rahul Verma",
+    "publisher": "ABC Publishers",
+    "description": "The candid biography of an inventor who failed forty times before building a company that changed an industry.",
+    "category": "Biography",
+    "genres": [
+      "Non-fiction",
+      "Biography"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 549,
+    "discountPercent": 12,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.4,
+    "ratingCount": 288,
+    "sold": 705,
+    "published": "2026-03-18",
+    "cover": {
+      "bg": "#1f2937",
+      "fg": "#f9fafb",
+      "accent": "#38bdf8",
+      "motif": "bulb"
+    }
+  },
+  {
+    "id": "quiet-mornings",
+    "title": "Quiet Mornings",
+    "author": "Sofia Alvarez",
+    "publisher": "Heartline Books",
+    "description": "A memoir of leaving the city, learning to farm and discovering a slower, kinder way to live.",
+    "category": "Memoir",
+    "genres": [
+      "Non-fiction",
+      "Memoir"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 379,
+    "discountPercent": 8,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.3,
+    "ratingCount": 144,
+    "sold": 330,
+    "published": "2026-04-05",
+    "cover": {
+      "bg": "#fde68a",
+      "fg": "#3f3f46",
+      "accent": "#f97316",
+      "motif": "sun"
+    }
+  },
+  {
+    "id": "roads-less-travelled",
+    "title": "Roads Less Travelled",
+    "author": "Karan Mehta",
+    "publisher": "Wanderlust Media",
+    "description": "Thirty offbeat journeys across India, with maps, budgets and stories from the road.",
+    "category": "Travel",
+    "genres": [
+      "Non-fiction",
+      "Travel"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 649,
+    "discountPercent": 15,
+    "taxPercent": 12,
+    "deliveryDays": 6,
+    "rating": 4.6,
+    "ratingCount": 232,
+    "sold": 475,
+    "published": "2026-05-10",
+    "cover": {
+      "bg": "#065f46",
+      "fg": "#ecfdf5",
+      "accent": "#fcd34d",
+      "motif": "globe"
+    }
+  },
+  {
+    "id": "spice-route-kitchen",
+    "title": "The Spice Route Kitchen",
+    "author": "Anita Rao",
+    "publisher": "Wanderlust Media",
+    "description": "One hundred home-style recipes that follow the old spice routes, from Kerala to Kashmir.",
+    "category": "Cooking",
+    "genres": [
+      "Non-fiction",
+      "Cooking"
+    ],
+    "language": "English",
+    "format": "Hardcover",
+    "price": 899,
+    "discountPercent": 10,
+    "taxPercent": 5,
+    "deliveryDays": 7,
+    "rating": 4.8,
+    "ratingCount": 505,
+    "sold": 1320,
+    "published": "2025-10-09",
+    "cover": {
+      "bg": "#b91c1c",
+      "fg": "#fff7ed",
+      "accent": "#facc15",
+      "motif": "leaf"
+    }
+  },
+  {
+    "id": "robot-who-dreamed",
+    "title": "The Robot Who Dreamed",
+    "author": "Tina Bose",
+    "publisher": "Little Sprout",
+    "description": "Beep is a little robot who wants to dream. A funny, tender adventure for young readers.",
+    "category": "Children's",
+    "genres": [
+      "Fiction",
+      "Children"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 189,
+    "discountPercent": 5,
+    "taxPercent": 5,
+    "deliveryDays": 3,
+    "rating": 4.7,
+    "ratingCount": 210,
+    "sold": 640,
+    "published": "2026-06-25",
+    "cover": {
+      "bg": "#0ea5e9",
+      "fg": "#ffffff",
+      "accent": "#fde047",
+      "motif": "rocket"
+    }
+  },
+  {
+    "id": "summer-of-fireflies",
+    "title": "Summer of Fireflies",
+    "author": "Nora Ellis",
+    "publisher": "Heartline Books",
+    "description": "Seventeen, restless and in love for the first time during one unforgettable summer.",
+    "category": "Young Adult",
+    "genres": [
+      "Fiction",
+      "Young Adult",
+      "Love"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 249,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 4,
+    "rating": 4.2,
+    "ratingCount": 398,
+    "sold": 870,
+    "published": "2026-05-15",
+    "cover": {
+      "bg": "#312e81",
+      "fg": "#fef9c3",
+      "accent": "#fde047",
+      "motif": "stars"
+    }
+  },
+  {
+    "id": "neon-city-chronicles",
+    "title": "Neon City Chronicles",
+    "author": "Vikram Shah",
+    "publisher": "Panel Pulse",
+    "description": "A cyberpunk graphic novel following a courier who uncovers the city’s darkest data.",
+    "category": "Comics & Graphic Novels",
+    "genres": [
+      "Fiction",
+      "Graphic Novel"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 599,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.5,
+    "ratingCount": 276,
+    "sold": 610,
+    "published": "2026-07-04",
+    "cover": {
+      "bg": "#111827",
+      "fg": "#22d3ee",
+      "accent": "#e879f9",
+      "motif": "moon"
+    }
+  },
+  {
+    "id": "monsoon-verses",
+    "title": "Monsoon Verses",
+    "author": "Ishita Das",
+    "publisher": "Heartline Books",
+    "description": "A collection of poems on rain, memory, and the quiet strength of ordinary days.",
+    "category": "Poetry",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 179,
+    "discountPercent": 0,
+    "taxPercent": 5,
+    "deliveryDays": 3,
+    "rating": 4.6,
+    "ratingCount": 120,
+    "sold": 260,
+    "published": "2026-03-30",
+    "cover": {
+      "bg": "#164e63",
+      "fg": "#cffafe",
+      "accent": "#67e8f9",
+      "motif": "waves"
+    }
+  },
+  {
+    "id": "the-last-act",
+    "title": "The Last Act",
+    "author": "Devika Menon",
+    "publisher": "Stagecraft",
+    "description": "Three one-act plays set backstage on the final night of a legendary theatre.",
+    "category": "Drama",
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 329,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.1,
+    "ratingCount": 98,
+    "sold": 190,
+    "published": "2025-12-01",
+    "cover": {
+      "bg": "#450a0a",
+      "fg": "#fecaca",
+      "accent": "#f87171",
+      "motif": "heart"
+    }
+  },
+  {
+    "id": "cosmos-explained",
+    "title": "Cosmos Explained",
+    "author": "Dr. Nikhil Sen",
+    "publisher": "Orbit Lane",
+    "description": "From black holes to the Big Bang: modern physics explained without the maths.",
+    "category": "Science",
+    "genres": [
+      "Non-fiction",
+      "Science"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 479,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.8,
+    "ratingCount": 610,
+    "sold": 1650,
+    "published": "2026-01-08",
+    "cover": {
+      "bg": "#0f172a",
+      "fg": "#e0f2fe",
+      "accent": "#38bdf8",
+      "motif": "stars"
+    }
+  },
+  {
+    "id": "living-with-stoics",
+    "title": "Living with the Stoics",
+    "author": "Marcus Hale",
+    "publisher": "Lotus House",
+    "description": "Ancient wisdom for a modern mind: how Stoic philosophy can calm anxiety and build resilience.",
+    "category": "Philosophy",
+    "genres": [
+      "Non-fiction",
+      "Philosophy"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 399,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 4,
+    "rating": 4.7,
+    "ratingCount": 455,
+    "sold": 1020,
+    "published": "2026-02-02",
+    "cover": {
+      "bg": "#44403c",
+      "fg": "#fafaf9",
+      "accent": "#d6d3d1",
+      "motif": "book"
+    }
+  },
+  {
+    "id": "many-paths-one-truth",
+    "title": "Many Paths, One Truth",
+    "author": "Swami Anand",
+    "publisher": "Lotus House",
+    "description": "A gentle comparative look at the world’s great religions and what they share.",
+    "category": "Religion",
+    "genres": [
+      "Non-fiction",
+      "Religion"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 349,
+    "discountPercent": 5,
+    "taxPercent": 5,
+    "deliveryDays": 5,
+    "rating": 4.4,
+    "ratingCount": 160,
+    "sold": 300,
+    "published": "2025-07-19",
+    "cover": {
+      "bg": "#7c3aed",
+      "fg": "#faf5ff",
+      "accent": "#fde68a",
+      "motif": "sun"
+    }
+  },
+  {
+    "id": "hindi-in-30-days",
+    "title": "Learn Hindi in 30 Days",
+    "author": "Pooja Sharma",
+    "publisher": "ABC Publishers",
+    "description": "A daily-practice workbook with phrases, scripts and audio drills for absolute beginners.",
+    "category": "Language Learning",
+    "genres": [
+      "Non-fiction",
+      "Language"
+    ],
+    "language": "English",
+    "format": "Paperback",
+    "price": 249,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 3,
+    "rating": 4.3,
+    "ratingCount": 205,
+    "sold": 540,
+    "published": "2026-04-14",
+    "cover": {
+      "bg": "#ea580c",
+      "fg": "#fff7ed",
+      "accent": "#ffffff",
+      "motif": "book"
+    }
+  },
+  {
+    "id": "madhurima",
+    "title": "मधुरिमा",
+    "author": "Sunita Joshi",
+    "publisher": "Heartline Books",
+    "description": "प्रेम, परिवार और परंपरा की एक मधुर कहानी जो हर पाठक को अपने गाँव की याद दिला देगी।",
+    "category": "Romance",
+    "genres": [
+      "Fiction",
+      "Love"
+    ],
+    "language": "Hindi",
+    "format": "Paperback",
+    "price": 199,
+    "discountPercent": 5,
+    "taxPercent": 5,
+    "deliveryDays": 4,
+    "rating": 4.4,
+    "ratingCount": 175,
+    "sold": 410,
+    "published": "2026-03-12",
+    "cover": {
+      "bg": "#be185d",
+      "fg": "#fdf2f8",
+      "accent": "#fbcfe8",
+      "motif": "heart"
+    }
+  },
+  {
+    "id": "kokan-diaries",
+    "title": "कोकण डायरी",
+    "author": "Aditya Kulkarni",
+    "publisher": "Wanderlust Media",
+    "description": "कोकणातील गावे, चवी आणि माणसांच्या आठवणींचा सुंदर प्रवास.",
+    "category": "Travel",
+    "genres": [
+      "Non-fiction",
+      "Travel"
+    ],
+    "language": "Marathi",
+    "format": "E-book",
+    "price": 149,
+    "discountPercent": 0,
+    "taxPercent": 5,
+    "deliveryDays": 1,
+    "rating": 4.5,
+    "ratingCount": 90,
+    "sold": 220,
+    "published": "2026-06-11",
+    "cover": {
+      "bg": "#0f766e",
+      "fg": "#f0fdfa",
+      "accent": "#99f6e4",
+      "motif": "waves"
+    }
+  },
+  {
+    "id": "chennai-nights",
+    "title": "Chennai Nights",
+    "author": "Lakshmi Iyer",
+    "publisher": "Nightfall Press",
+    "description": "A detective returns to her hometown to solve a murder in the city’s old film district.",
+    "category": "Mystery",
+    "genres": [
+      "Fiction",
+      "Thriller"
+    ],
+    "language": "Tamil",
+    "format": "Paperback",
+    "price": 279,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 5,
+    "rating": 4.2,
+    "ratingCount": 130,
+    "sold": 350,
+    "published": "2026-05-22",
+    "cover": {
+      "bg": "#1e293b",
+      "fg": "#f8fafc",
+      "accent": "#f59e0b",
+      "motif": "moon"
+    }
+  },
+  {
+    "id": "gitanjali-reborn",
+    "title": "Gitanjali Reborn",
+    "author": "Subrata Sen",
+    "publisher": "Heartline Books",
+    "description": "Fresh Bengali verse inspired by Tagore, reimagined for a new generation of readers.",
+    "category": "Poetry",
+    "genres": [
+      "Poetry"
+    ],
+    "language": "Bengali",
+    "format": "Audiobook",
+    "price": 99,
+    "discountPercent": 0,
+    "taxPercent": 5,
+    "deliveryDays": 1,
+    "rating": 4.6,
+    "ratingCount": 75,
+    "sold": 180,
+    "published": "2025-11-30",
+    "cover": {
+      "bg": "#9a3412",
+      "fg": "#ffedd5",
+      "accent": "#fdba74",
+      "motif": "leaf"
+    }
+  },
+  {
+    "id": "ultimate-guide-wealth",
+    "title": "The Wealth Blueprint",
+    "author": "Rohan Gupta",
+    "publisher": "ABC Publishers",
+    "description": "A premium collector’s edition on building long-term wealth, with worksheets and case studies.",
+    "category": "Self-help",
+    "genres": [
+      "Non-fiction",
+      "Finance"
+    ],
+    "language": "English",
+    "format": "Hardcover",
+    "price": 1199,
+    "discountPercent": 10,
+    "taxPercent": 12,
+    "deliveryDays": 7,
+    "rating": 4.9,
+    "ratingCount": 890,
+    "sold": 2400,
+    "published": "2026-07-08",
+    "cover": {
+      "bg": "#052e16",
+      "fg": "#ecfccb",
+      "accent": "#facc15",
+      "motif": "crown"
+    }
+  }
+]
